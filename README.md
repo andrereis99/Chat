@@ -3,6 +3,7 @@
 Apenas existe um requisito para entrar, a inserção de um username sem espaços e que ainda não esteja em uso. Após isto, o utilizador pode trocar de salas livremente, exceto para salas privadas onde este não seja um moderador.
 
 Comandos
+
 • “exit” – terminar sessão.
 
 • “rooms” – visualizar todas as salas e utilizadores dentro delas.
